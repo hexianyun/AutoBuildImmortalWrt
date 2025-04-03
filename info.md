@@ -2,3 +2,4 @@
 #### 固件地址 `192.168.31.60`
 #### 用户名 `root` 密码：无
 #### 默认软件包大小 2GB 
+####  更改IP-------99-custom.sh 就是immortalwrt固件首次启动时运行的脚本 位于固件内的/etc/uci-defaults/99-custom.sh
